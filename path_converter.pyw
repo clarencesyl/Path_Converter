@@ -35,6 +35,7 @@ def convert():
     newPath_lbl.config(text="Converted Path: {}".format(newPath_str))
 
     window.clipboard_append(newPath_str)
+    path_txt.delete("1.0", "end")
 
     # Toggle on/off displaying of msgbox. 
     if var1.get() == 1:
