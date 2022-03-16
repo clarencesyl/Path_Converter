@@ -1,5 +1,5 @@
 # Path_Converter
-A python program made with Tkinter.
+A Python program made with Tkinter.
 
 Converts paths copied from Windows File Explorer to python friendly paths.
 
