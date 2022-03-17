@@ -20,7 +20,7 @@ def convert():
     # Iterate through list to do conversion.
     # Converted path is appended to a new list.
     for char in getPath_list:
-        if char == "\\":
+        if char == "\\":  # \\ in Python is \ when printed.
             char = "/"
             newPath_list.append(char)
 
