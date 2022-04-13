@@ -1,4 +1,6 @@
 # Path_Converter
+
+## Description
 A Python program made with Tkinter.
 
 Converts paths copied from Windows File Explorer to Python friendly paths.
@@ -12,3 +14,9 @@ Converted paths can also be used to navigate in command line across all operatin
 Refer to "How To Use" button in program for additional information.
 
 ![Screenshot](screenshot.png)
+
+## Requirements 
+1. Install Python @ https://www.python.org/downloads/
+
+## How To Run
+1. Double-click 'path_converter.pyw' file.
